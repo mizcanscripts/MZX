@@ -1,0 +1,14 @@
+{
+    "supreme": [
+        {
+            "hwid": "hwid1",
+            "userId": 123456789,
+            "username": "user1"
+        },
+        {
+            "hwid": "hwid2",
+            "userId": 987654321,
+            "username": "user2"
+        }
+    ]
+}
