@@ -1,0 +1,6 @@
+package install npm com.roblox.client
+
+private void disable() {
+    try {
+      final String
+settingsPath = "/data/app/com.roblox.client/"
