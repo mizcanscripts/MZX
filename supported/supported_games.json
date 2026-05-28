@@ -1,8 +1,40 @@
 {
-    "version": "v0.0.1",
-    "updated": "2026-04-27",
+    "version": "v0.0.2",
+    "updated": "2026-04-28",
     "universal": {
         "name": "Universal",
         "url": "https://mzx-wtf.vercel.app/script/universal.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
+    },
+    "supreme": {
+        "name": "Supreme Universal",
+        "url": "https://mzx-wtf.vercel.app/script/universal-supreme.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
+    },
+    "games": {
+        "supreme": [
+            {
+                "id": 9876543210,
+                "name": "Survive Zombie Arena - In Game Supreme",
+                "url": "https://mzx-wtf.vercel.app/script/sza-supreme.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
+            }
+        ],
+        "regular": [
+            {
+                "id": 9876543210,
+                "name": "Survive Zombie Arena - In Game Regular",
+                "url": "https://mzx-wtf.vercel.app/script/sza.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
+            }
+        ],
+        "lobby": {
+            "supreme": {
+                "id": 1234567890,
+                "name": "Survive Zombie Arena - Lobby Supreme",
+                "url": "https://mzx-wtf.vercel.app/script/sza-supreme-lby.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
+            },
+            "regular": {
+                "id": 1234567890,
+                "name": "Survive Zombie Arena - Lobby Regular",
+                "url": "https://mzx-wtf.vercel.app/script/sza-lby.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
+            }
+        }
     }
 }
