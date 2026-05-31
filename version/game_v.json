@@ -2,5 +2,9 @@
   "universal": {
     "version": "v0.0.2",
     "name": "Universal"
+  },
+  "sza": {
+    "version": "v0.0.1",
+    "name": "Survive Zombie Arena"
   }
 }
