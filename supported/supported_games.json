@@ -12,26 +12,26 @@
     "games": {
         "supreme": [
             {
-                "id": 9876543210,
+                "id": 98927955463992,
                 "name": "Survive Zombie Arena - In Game Supreme",
                 "url": "https://mzx-wtf.vercel.app/script/sza-supreme.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
             }
         ],
         "regular": [
             {
-                "id": 9876543210,
+                "id": 98927955463992,
                 "name": "Survive Zombie Arena - In Game Regular",
                 "url": "https://mzx-wtf.vercel.app/script/sza.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
             }
         ],
         "lobby": {
             "supreme": {
-                "id": 1234567890,
+                "id": 114204398207377,
                 "name": "Survive Zombie Arena - Lobby Supreme",
                 "url": "https://mzx-wtf.vercel.app/script/sza-supreme-lby.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
             },
             "regular": {
-                "id": 1234567890,
+                "id": 114204398207377,
                 "name": "Survive Zombie Arena - Lobby Regular",
                 "url": "https://mzx-wtf.vercel.app/script/sza-lby.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
             }
