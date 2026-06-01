@@ -14,7 +14,7 @@
             {
                 "id": 98927955463992,
                 "name": "Survive Zombie Arena - In Game Supreme",
-                "url": "https://mzx-wtf.vercel.app/script/sza-supreme.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
+                "url": "https://mzx-wtf.vercel.app/script/test.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
             }
         ],
         "regular": [
@@ -28,7 +28,7 @@
             "supreme": {
                 "id": 114204398207377,
                 "name": "Survive Zombie Arena - Lobby Supreme",
-                "url": "https://mzx-wtf.vercel.app/script/sza-supreme-lby.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
+                "url": "https://mzx-wtf.vercel.app/script/test.lua?token=mzx-sctknJ2hq72JGnsupsIbwL72&key=mzx-J0R6qBp2kYvzXmC936"
             },
             "regular": {
                 "id": 114204398207377,
