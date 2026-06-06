@@ -6,5 +6,9 @@
   "sza": {
     "version": "v0.0.1",
     "name": "Survive Zombie Arena"
-  }
+  },
+  "fyfap": {
+    "version": "v0.0.1",
+    "name": "Flex Your FPS And Ping"
+  },
 }
