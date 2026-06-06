@@ -15,12 +15,22 @@
                 "id": 98927955463992,
                 "name": "Survive Zombie Arena - In Game Supreme",
                 "url": "https://api.jnkie.com/api/v1/luascripts/public/1e5bb8adfecd58494caec268dffd396a20167a27857144fd61d30186ded90e60/download"
+            },
+            {
+                "id": 98927955463992,
+                "name": "Flex your FPS and Ping - In Game Supreme",
+                "url": "https://api.jnkie.com/api/v1/luascripts/public/1e5bb8adfecd58494caec268dffd396a20167a27857144fd61d30186ded90e60/download"
             }
         ],
         "regular": [
             {
                 "id": 98927955463992,
                 "name": "Survive Zombie Arena - In Game Regular",
+                "url": "https://api.jnkie.com/api/v1/luascripts/public/1e5bb8adfecd58494caec268dffd396a20167a27857144fd61d30186ded90e60/download"
+            },
+            {
+                "id": 98927955463992,
+                "name": "Flex your FPS and Ping - In Game Regular",
                 "url": "https://api.jnkie.com/api/v1/luascripts/public/1e5bb8adfecd58494caec268dffd396a20167a27857144fd61d30186ded90e60/download"
             }
         ],
