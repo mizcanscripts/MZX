@@ -1,24 +1,44 @@
 {
     "supreme": [
         {
+            "discordId": "111111111111111111",
             "hwid": "e96a251bde6839d0",
             "userId": 8365842295,
-            "username": "Coderminator"
+            "username": "Coderminator",
+            "slots": [
+                { "userId": 8365842295, "username": "Coderminator", "hwid": "e96a251bde6839d0" },
+                { "userId": 0, "username": "", "hwid": "" }
+            ]
         },
         {
+            "discordId": "222222222222222222",
             "hwid": "1CD31B12-F0AC-400E-88F3-FE549E4EC18D",
             "userId": 8368888777,
-            "username": "Oakton001_username"
+            "username": "Oakton001_username",
+            "slots": [
+                { "userId": 8368888777, "username": "Oakton001_username", "hwid": "1CD31B12-F0AC-400E-88F3-FE549E4EC18D" },
+                { "userId": 0, "username": "", "hwid": "" }
+            ]
         },
         {
+            "discordId": "333333333333333333",
             "hwid": "08a5ad6327e28c2f1a7a83dadcc6c26e187b87017c6b124f73a767295298d20e",
-            "userId": "12345678",
-            "username": "GAGScripter_Q"
+            "userId": 12345678,
+            "username": "GAGScripter_Q",
+            "slots": [
+                { "userId": 12345678, "username": "GAGScripter_Q", "hwid": "08a5ad6327e28c2f1a7a83dadcc6c26e187b87017c6b124f73a767295298d20e" },
+                { "userId": 0, "username": "", "hwid": "" }
+            ]
         },
         {
+            "discordId": "444444444444444444",
             "hwid": "b6c2caf5ccb29df5f5c48dffb365b92d1a157670cfee58c9f3a0ac9b0bd08395",
             "userId": 11049321092,
-            "username": "Ihatemylif1e"
+            "username": "Ihatemylif1e",
+            "slots": [
+                { "userId": 11049321092, "username": "Ihatemylif1e", "hwid": "b6c2caf5ccb29df5f5c48dffb365b92d1a157670cfee58c9f3a0ac9b0bd08395" },
+                { "userId": 0, "username": "", "hwid": "" }
+            ]
         }
     ]
 }
